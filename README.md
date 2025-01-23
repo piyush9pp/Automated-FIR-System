@@ -39,7 +39,7 @@ SmartFIR Portal is an innovative web platform designed to simplify the FIR (Firs
 ---
 
 ## 🤖 Usage Guide
-1. **Visit the SmartFIR Portal**: Navigate to [SmartFIR Portal](https://intellifirs.netlify.app/).
+1. **Visit the SmartFIR Portal**: Navigate to [SmartFIR Portal](https://automated-fir-piyush.netlify.app/).
 2. **Register/Login**: Create an account or log in with secure JWT authentication.
 3. **File a Complaint**: Use the user-friendly form or the speech-to-text feature to submit grievances.
 4. **Check Complaint Status**: Receive updates and view real-time complaint progress on your dashboard.
@@ -55,7 +55,4 @@ SmartFIR Portal is an innovative web platform designed to simplify the FIR (Firs
 
 ---
 
-## 🏗️ How to Run Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Atharva1704/IntelliFIR.git
+
