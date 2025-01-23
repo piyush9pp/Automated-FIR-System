@@ -33,8 +33,8 @@ SmartFIR Portal is an innovative web platform designed to simplify the FIR (Firs
 ---
 
 ## 🌐 Website Links
-- **Live Website**: [SmartFIR Portal](https://intellifirs.netlify.app/)
-- **GitHub Repository**: [IntelliFIR Repository](https://github.com/Atharva1704/IntelliFIR)
+- **Live Website**: [SmartFIR Portal](https://automated-fir-piyush.netlify.app/)
+- **GitHub Repository**: [IntelliFIR Repository](https://github.com/piyush9pp/Automated-FIR-System)
 
 ---
 
